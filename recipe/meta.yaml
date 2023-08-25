@@ -187,7 +187,7 @@ outputs:
         - libjpeg-turbo
         - json-c  # [not win]
         - kealib
-        - arrow-cpp
+        - arrow-cpp>=13
         - libarchive
         - libkml
         - libnetcdf
